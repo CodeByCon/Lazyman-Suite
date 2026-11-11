@@ -36,4 +36,4 @@ TODO
 See [SECURITY.md](SECURITY.md). Please report vulnerabilities privately.
 
 ## Contributing / Licence
-See CONTRIBUTING.md. See LICENSE.md.
+See [CONTRIBUTING.md](CONTRIBUTING.md). See [LICENSE.md](LICENSE.md).
