@@ -1,4 +1,4 @@
-# Lazyman Suite
+<img src="title.png" alt="Title" width="600">
 > Drop it in. Get game-ready assets out.
 
 <img src="preview.png" alt="Project Preview" width="600">
