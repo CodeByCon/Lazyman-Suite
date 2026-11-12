@@ -1,7 +1,5 @@
 <img src="title.png" alt="Title" width="600">
 
-> Drop it in. Get game-ready assets out.
-
 <img src="preview-rack.png" alt="Project Preview" width="600">
 
 Lazyman Suite is an asset pipeline for game artists and tech artists. Drop in a
