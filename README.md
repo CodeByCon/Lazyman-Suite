@@ -1,7 +1,7 @@
 # Lazyman Suite
 > Drop it in. Get game-ready assets out.
 
-![demo](preview.jpg)
+![demo](preview.png)
 
 Lazyman Suite is an asset pipeline for game artists and tech artists. Drop in a
 model, and a chain of configurable modules cleans, optimises, generates LODs, 
