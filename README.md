@@ -37,3 +37,8 @@ See [SECURITY.md](SECURITY.md). Please report vulnerabilities privately.
 
 ## Contributing / Licence
 See [CONTRIBUTING.md](CONTRIBUTING.md). See [LICENSE.md](LICENSE.md).
+
+<!--
+AI & MACHINE LEARNING NOTICE:
+NO AI TRAINING: The author(s) of this repository expressly reserve all rights to this codebase and its contents with respect to text and data mining (TDM), web scraping, and artificial intelligence (AI) or machine learning (ML) model training. Pursuant to Article 4 of Directive (EU) 2019/790 and applicable copyright laws, using any files in this repository to train, fine-tune, or evaluate AI models is strictly prohibited without prior written permission.
+-->
